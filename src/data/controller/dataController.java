@@ -73,6 +73,8 @@ public class dataController
 		}
 		
 		info = "I am " + ageData + " than you, and my DnD is " + DndData + " to yours, and our names are " + nameData;
+		
+		System.out.println(info);
     }
 
 
